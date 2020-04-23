@@ -1,0 +1,8 @@
+1. npm init -y
+2. npm i express dotenv cors helmet
+3. npm i -D typescript
+4. npm i -D @types/node @types/express @types/dotenv @types/cors @types/helmet
+5. npx tsc --init (create tsconfig.json file)
+6. create .env file to store configuration variables
+7. create /src and /src/index.ts
+8. npm i -D ts-loader webpack webpack-cli webpack-node-externals
